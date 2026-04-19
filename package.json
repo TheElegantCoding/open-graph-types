@@ -2,7 +2,7 @@
   "name": "open-graph-types",
   "description": "📦️ Ultra-lightweight and strict Open Graph TypeScript definitions.",
   "author": "Luis Monsalve",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/TheElegantCoding/open-graph-types#readme",
   "repository": {
     "type": "git",
