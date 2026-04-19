@@ -6,8 +6,7 @@ const config = eslintConfig({
   unicorn: true,
   yml: true,
   perfectionist: true,
-  typescript: true,
-  ignore: ['postcss.config.cjs']
+  typescript: true
 });
 
 export default config;
