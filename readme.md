@@ -1,32 +1,32 @@
-<img src="./.github/asset/illustration/wave_header.svg" width="100%" align="center"/>
+<img src="./.github/asset/illustration/wave_header.svg" width="100%" />
 
 <h1 id="top" align="center">
-  <img src="./.github/asset/icon/typescript.svg" alt="icon" width="32px" align="center" />
+  <img src="./.github/asset/icon/typescript.svg" alt="icon" width="28px" align="center" />
   Open graph types
 </h1>
 
-<img src="./.github/asset/illustration/divider.svg" alt="divider" width="100%" align="center" />
+<img src="./.github/asset/illustration/divider.svg" alt="divider" width="100%" />
 
 <pre align="center">
-  <a href="#installation">📦 SETUP</a> • <a href="#configuration">⚡ USAGE</a>
+  <a href="#installation">📦 SETUP</a> • <a href="#usage">⚡ USAGE</a>
 </pre>
 
-<img src="./.github/asset/illustration/divider.svg" alt="divider" width="100%" align="center" />
+<img src="./.github/asset/illustration/divider.svg" alt="divider" width="100%" />
 
-<img src="./.github/asset/illustration/open_graph_cover.svg" width="100%" align="center" />
+<img src="./.github/asset/illustration/open_graph_cover.svg" width="100%" />
 
 <br />
 
 <div align="center">
-  <img src="./.github/asset/illustration/bun_badget.svg" height="34px" />&nbsp;&nbsp;&nbsp;
-  <img src="./.github/asset/illustration/github_badget.svg" height="34px" />&nbsp;&nbsp;&nbsp;
-  <img src="./.github/asset/illustration/typescript_badget.svg" height="34px" />&nbsp;&nbsp;&nbsp;
-  <img src="./.github/asset/illustration/node_badget.svg" height="34px" />&nbsp;&nbsp;&nbsp;
-  <img src="./.github/asset/illustration/npm_badget.svg" height="34px" />&nbsp;&nbsp;&nbsp;
-  <img src="./.github/asset/illustration/git_badget.svg" height="34px" />
+  <img src="./.github/asset/illustration/bun_badge.svg" height="34px" />&nbsp;&nbsp;&nbsp;
+  <img src="./.github/asset/illustration/github_badge.svg" height="34px" />&nbsp;&nbsp;&nbsp;
+  <img src="./.github/asset/illustration/typescript_badge.svg" height="34px" />&nbsp;&nbsp;&nbsp;
+  <img src="./.github/asset/illustration/node_badge.svg" height="34px" />&nbsp;&nbsp;&nbsp;
+  <img src="./.github/asset/illustration/npm_badge.svg" height="34px" />&nbsp;&nbsp;&nbsp;
+  <img src="./.github/asset/illustration/git_badge.svg" height="34px" />
 </div>
 
-<img src="./.github/asset/illustration/divider.svg" alt="divider" width="100%" align="center" />
+<img src="./.github/asset/illustration/divider.svg" alt="divider" width="100%" />
 
 <h2 id="about">
   <img src="./.github/asset/icon/information.svg" width="24px" align="center"/>
@@ -36,17 +36,18 @@
 <table border="0">
 <tr>
 <td>
-📦️ Ultra-lightweight and strict Open Graph TypeScript definitions.
+Strict TypeScript definitions for the Open Graph Protocol.
+Prevent metadata errors with comprehensive types for every OGP property, including structured assets and object types.
 </td>
 </tr>
 </table>
 
 <br />
 
-<img src="./.github/asset/illustration/divider.svg" alt="divider" width="100%" align="center" />
+<img src="./.github/asset/illustration/divider.svg" alt="divider" width="100%" />
 
 <h2 id="table-of-content">
-  <img src="./.github/asset/icon/book.svg" width="20px" align="center"/>
+  <img src="./.github/asset/icon/book.svg" width="24px" align="center"/>
   Table of content
 </h2>
 
@@ -58,7 +59,7 @@
 <img src="./.github/asset/illustration/divider.svg" alt="divider" width="100%" align="center" />
 
 <h2 id="requirements">
-  <img src="./.github/asset/icon/thunder.svg" width="20px" align="center"/>
+  <img src="./.github/asset/icon/thunder.svg" width="24px" align="center"/>
   Requirements
 </h2>
 
@@ -67,7 +68,7 @@
 
 <br />
 
-<img src="./.github/asset/illustration/divider.svg" alt="divider" width="100%" align="center" />
+<img src="./.github/asset/illustration/divider.svg" alt="divider" width="100%"" />
 
 <h2 id="installation">
   <img src="./.github/asset/icon/package.svg" width="24px" align="center" />
@@ -104,11 +105,10 @@ yarn i -D open-graph-types
   src="./.github/asset/illustration/divider.svg" 
   alt="divider" 
   width="100%" 
-  align="center"
 />
 
 <h2 id="usage">
-  <img src="./.github/asset/icon/rocket.svg" width="20px" align="center" />
+  <img src="./.github/asset/icon/rocket.svg" width="24px" align="center" />
   Usage
 </h2>
 
@@ -153,7 +153,6 @@ Here is the complete list of available types:
   src="./.github/asset/illustration/divider.svg" 
   alt="divider" 
   width="100%" 
-  align="center"
 />
 
 <pre align="center">
@@ -164,7 +163,6 @@ Here is the complete list of available types:
   src="./.github/asset/illustration/divider.svg" 
   alt="divider" 
   width="100%" 
-  align="center"
 />
 
 <pre align="center">
@@ -175,4 +173,4 @@ Here is the complete list of available types:
   <img src="./.github/asset/illustration/astralys_logo.svg" width="120px" align="center" />
 </div>
 
-<img src="./.github/asset/illustration/wave_footer.svg" width="100%" align="center" />
+<img src="./.github/asset/illustration/wave_footer.svg" width="100%" />
