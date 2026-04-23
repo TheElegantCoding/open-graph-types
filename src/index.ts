@@ -15,7 +15,7 @@ type OpenGraphType =
 type OpenGraphDeterminerType = '' | 'a' | 'an' | 'the' | 'auto';
 
 type OpenGraphMediaType = {
-  readonly url: string;
+  readonly url?: string;
   readonly alt?: string;
   readonly type?: string;
   readonly secureUrl?: string;
@@ -59,7 +59,7 @@ type OpenGraphVideoType = OpenGraphMediaType & {
 };
 
 type OpenGraphLocaleType = {
-  readonly current: string;
+  readonly current?: string;
   readonly alternate?: string[];
 };
 
@@ -72,10 +72,10 @@ type OpenGraphMusicType = {
 };
 
 type OpenGraph = {
-  readonly url: string;
-  readonly title: string;
+  readonly url?: string;
+  readonly title?: string;
   readonly siteName?: string;
-  readonly type: OpenGraphType;
+  readonly type?: OpenGraphType;
   readonly description?: string;
   readonly book?: OpenGraphBookType;
   readonly video?: OpenGraphVideoType;
@@ -85,7 +85,7 @@ type OpenGraph = {
   readonly article?: OpenGraphArticleType;
   readonly profile?: OpenGraphProfileType;
   readonly determiner?: OpenGraphDeterminerType;
-  readonly image: OpenGraphMediaType | OpenGraphMediaType[];
+  readonly image?: OpenGraphMediaType | OpenGraphMediaType[];
 };
 
 export type {
