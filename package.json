@@ -35,7 +35,7 @@
   "scripts": {
     "preinstall": "npx only-allow bun",
     "postinstall": "bunx gitlys init",
-    "release": "bunx gitlys release",
+    "release": "bun run build && bunx gitlys release",
     "prepublishOnly": "bun run build",
     "lint": "eslint . --fix ",
     "build": "tsup"
