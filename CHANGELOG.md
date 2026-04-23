@@ -16,6 +16,16 @@ The list of changes have the description - commit - author.
 
 ## Released
 
+## 🚀 Version [1.0.1] - 2026-04-23
+
+- **fix:** update release script to include build step before gitlys release [`c884dc1`](https://github.com/TheElegantCoding/open-graph-types/commit/c884dc1) by [`@TheElegantCoding`](https://github.com/TheElegantCoding)
+- **fix:** make OpenGraphMediaType, OpenGraphLocaleType optional [`5fed356`](https://github.com/TheElegantCoding/open-graph-types/commit/5fed356) by [`@TheElegantCoding`](https://github.com/TheElegantCoding)
+- **chore:** update gitlys dependency to version 1.1.5 and remove @types/bun [`1c9f7b9`](https://github.com/TheElegantCoding/open-graph-types/commit/1c9f7b9) by [`@TheElegantCoding`](https://github.com/TheElegantCoding)
+- **fix:** update alignment and badge names in README.md for consistency [`56542f4`](https://github.com/TheElegantCoding/open-graph-types/commit/56542f4) by [`@TheElegantCoding`](https://github.com/TheElegantCoding)
+- **asset:** update satellite and thunder SVG icons with new color scheme and mask IDs [`123ac37`](https://github.com/TheElegantCoding/open-graph-types/commit/123ac37) by [`@TheElegantCoding`](https://github.com/TheElegantCoding)
+- **feat:** add SVG badges for npm and TypeScript illustrations [`4967920`](https://github.com/TheElegantCoding/open-graph-types/commit/4967920) by [`@TheElegantCoding`](https://github.com/TheElegantCoding)
+- **chore:** remove CODEOWNERS and code of conduct files [`89e05de`](https://github.com/TheElegantCoding/open-graph-types/commit/89e05de) by [`@TheElegantCoding`](https://github.com/TheElegantCoding)
+
 ## 🚀 Version [1.0.0] - 2026-04-19
 
 - **feat:** add README.md with Open Graph types documentation and usage examples [`6b8d2fa`](https://github.com/TheElegantCoding/open-graph-types/commit/6b8d2fa) by [`@TheElegantCoding`](https://github.com/TheElegantCoding)
